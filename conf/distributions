@@ -1,0 +1,59 @@
+Origin: apt.patrickwu.ml
+Label: pkapt
+Codename: xenial
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+SignWith: yes
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Codename: zesty
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+SignWith: yes
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Codename: artful
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+SignWith: yes
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+SignWith: yes
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Suite: stable
+Codename: stretch
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+SignWith: yes
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Suite: testing
+Codename: buster
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+SignWith: yes
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Suite: unstable
+Codename: sid
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+SignWith: yes
+
