@@ -1,0 +1,20 @@
+Origin: apt.patrickwu.ml
+Label: pkapt
+Suite: stable
+Codename: stretch
+Date: Mon, 18 Jun 2018 01:29:28 UTC
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+MD5Sum:
+ 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
+ afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ f01d3ebce97de8176d0db8807790141d 131 main/binary-amd64/Release
+SHA1:
+ a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
+ 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ 49949b5782a6fb230276d822319829aa15545a84 131 main/binary-amd64/Release
+SHA256:
+ cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
+ d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ 3314ad395d9b0ab74e18c2371bf7f3f1f3cb1ffa3e0693a71988c893889efa54 131 main/binary-amd64/Release

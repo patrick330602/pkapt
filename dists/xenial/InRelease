@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Codename: xenial
+Date: Mon, 18 Jun 2018 01:27:00 UTC
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+MD5Sum:
+ 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
+ afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ 5ab12b36647d72129220550bb52dfd70 115 main/binary-amd64/Release
+SHA1:
+ a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
+ 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ 6664eda441d6798d910bb5e35e3acfea63e1a35a 115 main/binary-amd64/Release
+SHA256:
+ cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
+ d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ 12959bb6084dc403d698d31a4daf870503e471f2340cecc51be8a145cdf3bf4e 115 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsnCmQACgkQKKq9SBxY
+wo2w3xAAiXWEXJQsEbW0ui1m1Z7JCgXF0Ibb/0qgd7HEpjWaOsiaZHXc5i6zsbnq
+nYxEkgY8U+2aE991zv+AMwDOw/uzoe1ioeIKAgGqDUfnw2geAaDKTuf8W5za3DtH
+Psh3ErAJgTsZq3J59uU7k+R7Ig6eq6c6ip0HM8bV+aosEVbESH0nUMS+bg3Jyu4D
+mHCxco66BLWJtjm65isqeRkBuTNudn76P6+pLjyOvqMeQET4uTJTpvyJB4GlYDup
+ZfOy7Y04XeAZN2MpR1jVvrTSGXJZRUyB6kYEqF8ARkBlM1XvuodpDMh3B7oLmweh
+ACVnKjKR0CLqaxdhQCMbkNdBp62yR+fiJO2S24sB4B2QuEaNJkAXzEnVH7dpUoqe
+Ae8Nov3hLfedylKk16pITPEbDgQYz26PcgDGI6waLeDS2cwu+ylG0FyC/C+dUYfb
+XavciGOtYUAru+IBizNTtsZ3zOBOxA5/CbzWIV7SIQKd3uRbDPU9GtRNEav02t7R
+CpJVITX2/nOlkFr2zIitprmtPLBs0cLkd5Lkrt/mUY+cKq5d7tRXvsus4sUj6nIE
+TzZwfnxcu9zbMFOXo6NNDMBmC9k1LJI+L1AtPPgTLsrfvxCRq9OTi+IrYD+IwncA
+soMO9wHsYmH5cKUXvhpVkUl6txE01qkH9XGMbQVeotcxj/oJie0=
+=XkJG
+-----END PGP SIGNATURE-----

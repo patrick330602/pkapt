@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Suite: unstable
+Codename: sid
+Date: Mon, 18 Jun 2018 01:30:06 UTC
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+MD5Sum:
+ 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
+ afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ ba501093fdb48661dc843786a92694a4 133 main/binary-amd64/Release
+SHA1:
+ a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
+ 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ 90d50bfdedfc5acdfee514e8304544f124833428 133 main/binary-amd64/Release
+SHA256:
+ cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
+ d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ 23c1825c6de045bb81124e97e0f43ca17dccd69233c8b29849a6e4fb16ef18bb 133 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsnCx4ACgkQKKq9SBxY
+wo0FrBAAj4OHTe8ynvmjqO8lJVVQBQD9GY1otNlqZvMhBwiH8fxkQGEjA/MUB2Aj
+opRgmyZrSSfxsHtq8jwLrZmtc/r/7cCDQg6pSIETUU7eXmpk1CEWtzXhugnusw/a
+Rvyp+suZTiPUiLtR8q9cHhdHvWhHQVqOKLu2eqAnJNxXfo5zFzMIw6YF+vMHXY0t
+z5y/1GyBlRrpChGL3bV5zbn3rR5NBZf9HJZxselBl2Yw7/nEe9/eQQ0NOjBz0iaI
+gjoUjQMoR+p6Nh7FLSDlocUux663IoPGznIVh9wazNmVv/LOdVdEJO1WqfPqOp8q
+4a3dtvsI8NGBZysWEz3zVLyG4DQlKEUlZMenJHN0phgHVYPLqDMnuwtSTA35Zv8A
++KKv/uShThhOgSgvwJAMjRJareWFKOmHjziRUpxt1XH6It384wgXA1dd9cF4Ou4u
+110Zmpj3ehGcHzy3Trh2dYJ0K8F/wOMWmC5Qth3VjP5ugMl8pvv0ptLqZHelgkOk
+oqAntnSLQlksb39GCbdiyynPJWzzZdcCASqj3nWj+GQwyPm9oESip7BcG0IHB1Tn
+FPJuFp7m6IIuLO821Jlq2ORTh7CXpLTKuk4LwWJtWLdyXkG8UgOVFwa+Qif+MgU/
+T9DZiOPgfoiRPftUn2JoQjynuPv4/bfNs4t0soiNVUuotKt/FO4=
+=nQk1
+-----END PGP SIGNATURE-----

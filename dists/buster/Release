@@ -1,0 +1,20 @@
+Origin: apt.patrickwu.ml
+Label: pkapt
+Suite: testing
+Codename: buster
+Date: Mon, 18 Jun 2018 01:29:41 UTC
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+MD5Sum:
+ 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
+ afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ 0ea2b4d1a04dcf5a9a51059f7625033a 132 main/binary-amd64/Release
+SHA1:
+ a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
+ 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ 5ca71515a16365d65eeff2e0b30563b256f6a76f 132 main/binary-amd64/Release
+SHA256:
+ cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
+ d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ 385198be1fca22e69ab1c99cff055f979d295535c87d943d3a45061826d40b5a 132 main/binary-amd64/Release

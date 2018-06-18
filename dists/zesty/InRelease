@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Codename: zesty
+Date: Mon, 18 Jun 2018 01:27:20 UTC
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+MD5Sum:
+ 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
+ afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ 5ab12b36647d72129220550bb52dfd70 115 main/binary-amd64/Release
+SHA1:
+ a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
+ 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ 6664eda441d6798d910bb5e35e3acfea63e1a35a 115 main/binary-amd64/Release
+SHA256:
+ cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
+ d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ 12959bb6084dc403d698d31a4daf870503e471f2340cecc51be8a145cdf3bf4e 115 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsnCngACgkQKKq9SBxY
+wo2UARAArCQAJKoe18TUGFokg/HOpR+mdShK9N3Z/87qKirsP2lszOJQZqMENWeU
+YlUBtudmmEn5xELwyq2P4DLNsXOW0wwfCXyrk0/ChpaLA60CxUmLvALayPodNpvo
+YywucvMV1ivqTBJmeAvZjXRzYssbA/sZLnHrZMevPluDrXqoICN2Um1OP08hlqGQ
+vIzLRtMK29Fx3zPvSqpMnULK2ZfQEM1GjDZl5Nmp9zqDbAaZnHBxH6FzQ8z27qaO
+GL6VKdIhK6RYZBwVjTnD0fqRl0rGHUW2Ecm8UNuAShrSk+bODiOIomjW5KxJjiCx
+YaYSTDTRPnB5/sessMWSIx2tf/30MLtYLbIqGwt/w7YtgxBXHO7tOEZhvgvbEoIs
+C7/BqBcfuxAR+aQlL6Un9AMv+bCCx+ZvK15P4JBI5W028DJ86mBedU9eR3nEjoku
+xQDU0Rebb/nuVF8cnED1BZvXiNXpq35UWgRmFytU5Pu9hg58HOxaVmP2HX7v9Z4Q
+6jKEof/JOSJLTfEuwnAlMG0VV8zAtQy4r6vhMKhYWkR3vyH5xY1H8qG4iTdG+a6d
+Nxl9Qeg6ymvltRczqT10WCK9Kbgz5IEuKqoOTz3VrVYVDHxNkkmpRupCf+5ypnVS
+G1ABOPJ/xeIgnXW5a8DbCkj77H+gkkkZw6HuYQ1YjklC/SBJGzQ=
+=3uv1
+-----END PGP SIGNATURE-----

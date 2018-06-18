@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Codename: bionic
+Date: Mon, 18 Jun 2018 01:27:56 UTC
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+MD5Sum:
+ 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
+ afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ 5ab12b36647d72129220550bb52dfd70 115 main/binary-amd64/Release
+SHA1:
+ a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
+ 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ 6664eda441d6798d910bb5e35e3acfea63e1a35a 115 main/binary-amd64/Release
+SHA256:
+ cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
+ d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ 12959bb6084dc403d698d31a4daf870503e471f2340cecc51be8a145cdf3bf4e 115 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsnCpwACgkQKKq9SBxY
+wo12Bw//Y7VzE/l4kw34DEtI3MwvFScUGjjVXoGKnYHlF6j3FMQUtsO55ElrtEgy
+9+9LdGV+E1klj1haSjRtENu0bDEKPoi/PNWQvCk2C3ShLUt/psG7jGvEt5WfnLO8
+zvwCe1YmsCwyOZ65nqfVE0BWU2PrLeJpF0/jpcvw+CsJg6KPNGTtWjPp5j32dST6
+JkeknH6aVV+mFcVCwM4TUmA6AzM2r0Z8g5Ggqk8jG9VzgCxJcpfKY2UXjtYhOn55
+oKiobNc6QiukPun+hYx+uD0QI7wTrGwZ7nMtdF+VmDKMWktfzvd1eugeYah24XD7
+oSKjBrrfU4s8cvuyERJg0Ya6ZDKw/Mc1Q6ghT6KoiQNp++889VwSdggiqZ7ZL0X1
+3EHsEBtgx2zU6ydKJ2dVuzUAErKIK5puhOvq+o7RZdTo5C2IxRADpfyDTckUiBuf
+huDZwqG34EbRPo9fMY9I6S4f42kv7YB1ZcXrlyhziY3dtorQCJKM6HVeIDDkua0y
+hSIqZeIMqQGr4Zn8Wt2zngfROiOe6PavO7NvQ4gy5mxCaxwS+0Nx7GQ7VGyhUMtQ
+xf3agfR6gD636kSyHwnsRV62xl0K/i6mhQ4fu7qd0A1aoAXylzM2iMtwzGw4Mp8P
+o3HIvCydwCXgHZO8mJB2LkZuQKIfGHFQXXIN+Pb9I8yYXTJ2Ilw=
+=LpaJ
+-----END PGP SIGNATURE-----

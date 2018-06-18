@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.patrickwu.ml
+Label: pkapt
+Suite: stable
+Codename: stretch
+Date: Mon, 18 Jun 2018 01:29:28 UTC
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+MD5Sum:
+ 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
+ afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ f01d3ebce97de8176d0db8807790141d 131 main/binary-amd64/Release
+SHA1:
+ a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
+ 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ 49949b5782a6fb230276d822319829aa15545a84 131 main/binary-amd64/Release
+SHA256:
+ cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
+ d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ 3314ad395d9b0ab74e18c2371bf7f3f1f3cb1ffa3e0693a71988c893889efa54 131 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsnCvkACgkQKKq9SBxY
+wo2s9w//Xfbj/UPcy3ylwzWV5A69hdKO+5ni1MQCeBxZONeMuy1p5zge1v7NbjnL
+4HHufnQNagd5pMV/lrw7xhiwZEIJuOsgx2nbH5OAzu5g1bbolGODuYrLSpaGqi+0
+lhKmidaVVEFC9doxCwu14uctb+cPpO2kVcSpnim8XOBwZnPnUYkmyNPn4sqEK6Hx
+7qzG+DNmlz/5uBYaIDMaILGrrgg0xqrrYUuPD6ocxsAe/062jcs2saKlU7Ex53L3
+Vr8Op648p+c2uJvHxr4SCgHs7zELEOc6XhXWbZZqAC0IOR+lI9dwb4kk3q5yJ/E6
+9rTUBqymN3C6CP45WFRp7Dw65YgsRWErClS9P6opc/lPFzeIWdQCGgIK1TJ+YJFM
+8OhmeSkDJrAew+/Gl6sMuwuMcQtvzZNEBIq3xNRr5WXF1MaIaMhBn/ZhjCt3hAKT
+FFEKL5UMyA4bjWdIhmKPQEL4sG6H3BAPayPoDcKDU01SqDtceTxvFpqulL0GYPfk
+tZ/pueai4kV4RychP6i1VGR/77WSpRgGOSm7fFVFpH+XzwyurjTWPDhzaked1ZuA
+Mu6JcA7xyMmDr0ig/XZBsjkJiLFGyzD5fnL57lzhQKE28UegEEyl/4CYF3ZA85pP
+QyMeMm1AU9cZwyYwRnL1opWOB5GSAlinOFQvaaUWsb/FK9le0ws=
+=jzL0
+-----END PGP SIGNATURE-----
