@@ -1,0 +1,56 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.patrickwu.ml
+Label: ruapt
+Codename: kali
+Date: Wed, 20 Jun 2018 10:51:29 UTC
+Architectures: amd64
+Components: main contrib non-free
+Description: Patrick Wu's apt repository
+MD5Sum:
+ 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
+ afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ 34bd3bb2ff514feeaa2ab8eb08fadd75 115 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-amd64/Packages.gz
+ 8e8801fb1497c3d40e00ea462f844ff2 118 contrib/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-amd64/Packages.gz
+ cff9cf2959cb4c150744022dcc727085 119 non-free/binary-amd64/Release
+SHA1:
+ a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
+ 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ a980d58c6b4873141498168fa69aa7e5ceeb28bb 115 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-amd64/Packages.gz
+ b709bab5cd5860f8ec2c2b7df684aa2b63e9d92e 118 contrib/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-amd64/Packages.gz
+ 1df155d0a7802fadd6d6d5cb63b7dc0550008f49 119 non-free/binary-amd64/Release
+SHA256:
+ cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
+ d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ cff522e687a0a521c3b5c23d299131024fbfab7de97a4c9d276099ca542cccb6 115 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-amd64/Packages.gz
+ 56e837a827d4af4505af3ed5b9c6e269e80019c2773cef8d865ce4af442d3ac0 118 contrib/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-amd64/Packages.gz
+ c2a757be85e702f54bce3963e1c662b0dd45f781aac2c79d02ab44c35dab4181 119 non-free/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsqMbYACgkQKKq9SBxY
+wo1NSw//ZjHJuplr3VD5puSv1c9QRi8+QuNVY/nV2/jh6dK+6fT0J7BoC8FkSajQ
+iqVaPboU9rekBtKVF/E4nv7M4oGtz1JKyFjWBP90K5OZyDrfm4BB9+yyJDYqJXh3
+xlg8IrivkVsl3Cwg/mKL2CbO/rzZlXuZ7DImRmqTwJtzpzMlX7jrjHnkcYvqMw2i
+vCHr0CbITqnQEQfGSF/yWwr1uvEPdnt1LPG/ga3USBAkfGy+xYmg4WUPXTmghfIf
+JAeJswa59RTFeEXBLcr2JIIOqAcyxqWGjPtRBNaoOwQkgeoHpPs5iI/sv0VJquO4
+2kehO42nlqY6B9svF6MN16MP6LWyVal64uPUDmbJ6sZryZ+S1gBKu9uDfWxgIZZN
+QaW4MXZfB96swTdrC3uLjtNjfJRFtVhyKx7LuVXnnaluLARpjjzdv1b5GXsWfX6z
+ylidjBzKRSwl10URLLFJzTTUPonm4vqeBMU+qFrV0YnkKycIbtsq1x9e/c8EQeqq
+baRq64GEx3qpaRFALaM+RdFzkRoNCvZzZ6gzR5QRbTv+c7equEoLUXeuTXiW/Vo7
+aXaxXz+M0c9mvC1psSaUeIEHCmqW42Y07RikLAhMoLCSL9uKJ+xQTm+iQMRxXJnj
+wlYGiTVZwS6xq88OqTViccQSR+fI0MoEBH+2/CU0scRoLtjZKEY=
+=lKFK
+-----END PGP SIGNATURE-----

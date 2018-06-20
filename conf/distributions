@@ -43,9 +43,9 @@ SignWith: yes
 
 Origin: apt.patrickwu.ml
 Label: ruapt
-Codename: kali-rolling
+Codename: kali
 Architectures: amd64
-Components: main
+Components: main contrib non-free
 Description: Patrick Wu's apt repository
 SignWith: yes
 
