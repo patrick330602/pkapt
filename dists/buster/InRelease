@@ -2,10 +2,10 @@
 Hash: SHA512
 
 Origin: apt.patrickwu.ml
-Label: pkapt
+Label: ruapt
 Suite: testing
 Codename: buster
-Date: Mon, 18 Jun 2018 01:29:41 UTC
+Date: Wed, 20 Jun 2018 04:41:43 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository
@@ -23,17 +23,17 @@ SHA256:
  385198be1fca22e69ab1c99cff055f979d295535c87d943d3a45061826d40b5a 132 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsnCwUACgkQKKq9SBxY
-wo118g//Zu0qu1GeBDuPcAkdCRzd8ng4/+jDnRo6GMhe2VqJRrCzCXz2VGYBKUWn
-IWkytIndhs51TsQegNecddIYWbAmINwcqowq2jMZImW2I9pl755fa3GHyPOKumt0
-xH7rBJzpr2ePBeyfsFDJC7g3vg/d3HNBPzJTAZUZj1WkYDxHV5WPiWcD4JJ6B5Cr
-It2zhoukaxZAXyJCr9A4OURLSAgRhqRxRXmK+soz2f5+hVBBHnvO0oQFMN9m7PSF
-HAdkzMOHPuq/PeapnU29EktF6xPfp/8u0O2xT1lNN62unIOPiaIZ9hoid061yTI1
-xxo0FPZjOxDdvNV6A9fjqpLZ5alwnpop7U6Lnq3Tqxv9FIIlqzPjTPIXOjx6sNj3
-2cElGl+lk7aPl0zCgBTlvRuiK+AS6x91HP0WOt8EL2c/FYTGS+541LaHhckOo1Ly
-lYiEHGrNWksqgWUpyFlPYSXYQW/AyM0z0YyeJnL2L/y0JqcBBESi6HPkDhWtUdag
-IRmKYlosnNrmA65+0wXSMKfrFLnGFqLcpF2w8xf15VC1MV5VGyMp4yip8zcyFwhm
-t5PZLsIWiGuJE5qlQUhY+Km/YfwHhCH4RqNCIwtnVzKUWxJEhjjY5KXpD4ZfkX31
-vRCWL3yqtmmaKxAlZ2Gdncb+ec56AJRre8QtBU9nZtgG0o6r3uc=
-=VBOl
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsp2wcACgkQKKq9SBxY
+wo3jKQ//a70cvQGLpLw7n/kzB5CWIDKtvBYZiIqrxW4QwW9Xxe/52eqE8Q6nLMMb
+yww4aqqe89jhzjgreRA2D34tuK4tHpWKaJArYHZuuIzDwfv7Bf9I1KPqXOuSsqcy
+o5CY5F4f1mx1vjXHGZ0nHs7cB3Ig5/SLu4LMYuuWDF1MbSfYNdbX3C/F/fn/dAAq
+pN/ECoVHuWv6MRxuvkHirc16bpnmS8mkJ0aJwue19f/8iutD0vvm1o9ZJXhlZuQ6
+UEojmE1cy2FPsgmwoWLapppgbV3SvGz/zj7i6QKN291wDb+F6C/PzAjdtzxas67O
+HzsikAXdC6GcX2lcdCKqPbJUMTBx3sQFyYfRZ4YFgHWCll/TFmHHZ94KGcCeapz/
+X6Yu8WHLXhGBuMPk4QoBugl45oav5W1WapKEiTi5Xt8sJMCiRMDwqo6v41iXz/Zv
+ungFJfYXLmp4ImYZrBeI6vzzC/BG3/gOOqhhy/lR1g+fSWGRimi0qhckbiTUA+AR
+PzUH6fkf7P54vd41hmLx3YEID4MVu7BcFCjh7+zPPB5heW1QAygQ6EObde3NQ1jz
+bR8hRMaVebBaDFECBz3OS+d4xRlDCshPTXuSRnsoS+3F02St5emIBR/iosb9KYkI
+4vh90n7qlNWan2yuV2E3sGRFTwcVeeJXzowQKQToo19wuZQRrgU=
+=noXJ
 -----END PGP SIGNATURE-----

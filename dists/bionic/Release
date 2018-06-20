@@ -1,7 +1,7 @@
 Origin: apt.patrickwu.ml
-Label: pkapt
+Label: ruapt
 Codename: bionic
-Date: Mon, 18 Jun 2018 01:27:56 UTC
+Date: Wed, 20 Jun 2018 04:40:57 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository

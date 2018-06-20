@@ -2,9 +2,9 @@
 Hash: SHA512
 
 Origin: apt.patrickwu.ml
-Label: pkapt
+Label: ruapt
 Codename: xenial
-Date: Mon, 18 Jun 2018 01:27:00 UTC
+Date: Wed, 20 Jun 2018 04:40:42 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository
@@ -22,17 +22,17 @@ SHA256:
  12959bb6084dc403d698d31a4daf870503e471f2340cecc51be8a145cdf3bf4e 115 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsnCmQACgkQKKq9SBxY
-wo2w3xAAiXWEXJQsEbW0ui1m1Z7JCgXF0Ibb/0qgd7HEpjWaOsiaZHXc5i6zsbnq
-nYxEkgY8U+2aE991zv+AMwDOw/uzoe1ioeIKAgGqDUfnw2geAaDKTuf8W5za3DtH
-Psh3ErAJgTsZq3J59uU7k+R7Ig6eq6c6ip0HM8bV+aosEVbESH0nUMS+bg3Jyu4D
-mHCxco66BLWJtjm65isqeRkBuTNudn76P6+pLjyOvqMeQET4uTJTpvyJB4GlYDup
-ZfOy7Y04XeAZN2MpR1jVvrTSGXJZRUyB6kYEqF8ARkBlM1XvuodpDMh3B7oLmweh
-ACVnKjKR0CLqaxdhQCMbkNdBp62yR+fiJO2S24sB4B2QuEaNJkAXzEnVH7dpUoqe
-Ae8Nov3hLfedylKk16pITPEbDgQYz26PcgDGI6waLeDS2cwu+ylG0FyC/C+dUYfb
-XavciGOtYUAru+IBizNTtsZ3zOBOxA5/CbzWIV7SIQKd3uRbDPU9GtRNEav02t7R
-CpJVITX2/nOlkFr2zIitprmtPLBs0cLkd5Lkrt/mUY+cKq5d7tRXvsus4sUj6nIE
-TzZwfnxcu9zbMFOXo6NNDMBmC9k1LJI+L1AtPPgTLsrfvxCRq9OTi+IrYD+IwncA
-soMO9wHsYmH5cKUXvhpVkUl6txE01qkH9XGMbQVeotcxj/oJie0=
-=XkJG
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsp2soACgkQKKq9SBxY
+wo3pbg//RHqVFwHLdxm/sfqLI9GXk7I1usMsEHV5YhkdKd4g/8RJ0fZWbg53h54h
+jhdEiHjck5CMSHjch+k5jicQA7FwoqxcmZutU2GkYuYHBMHTMhgOLQxuCwfJPltF
+TtGASCPIVIR9S1DsXzRMET8fW61q6QvcTvISL4nYF/rFUlxBBfa8usFQT2hN0Fd9
+yKQJXSSKYoocRIMqm6VRs1rcllf17UIvGh+3geTIyIVofV5wKtHUoch2iTc/fRLK
+7RdQX6bb5mgaLay3WXl9VU7FBmccqMwOSBbLEzFFRkP42/xPpSoUQQlmJSF1hP58
+J9Pa82ZwcY7StVUuUn1hbJNSqxju+kDp8EQSM6y775xHNici1Fmo12bqYYjWuyCt
+4As2ndw++D0d7K9yD0Vicx6u8KkMdNPdD9P/A1yTUP2N2YmNodK7BeqEC7JyE6zG
+Aynr23xpXatbXkZ7eV8J1Yd8r3yBj5h3JduLmXsch21FG+cTke0FBBT0C9lo38i0
+GFcQGh/XI6jSjG9AogTzcUi93Jm99iynh8gTpDDoYy1pmDW6lJkA637gG3zRXJCH
+o9qcm/i4UlYB5jvunOUhbialEkNF9dZ1OPtrI50p5ZjHGfaIUfbMSSKXcbbZmaEn
+zF5Mc0TSqvowvuipoKddO1i9xuqLEIS8YE/FfOWNRKtxdvUZsTk=
+=FeYG
 -----END PGP SIGNATURE-----

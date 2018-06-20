@@ -2,9 +2,9 @@
 Hash: SHA512
 
 Origin: apt.patrickwu.ml
-Label: pkapt
+Label: ruapt
 Codename: bionic
-Date: Mon, 18 Jun 2018 01:27:56 UTC
+Date: Wed, 20 Jun 2018 04:40:57 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository
@@ -22,17 +22,17 @@ SHA256:
  12959bb6084dc403d698d31a4daf870503e471f2340cecc51be8a145cdf3bf4e 115 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsnCpwACgkQKKq9SBxY
-wo12Bw//Y7VzE/l4kw34DEtI3MwvFScUGjjVXoGKnYHlF6j3FMQUtsO55ElrtEgy
-9+9LdGV+E1klj1haSjRtENu0bDEKPoi/PNWQvCk2C3ShLUt/psG7jGvEt5WfnLO8
-zvwCe1YmsCwyOZ65nqfVE0BWU2PrLeJpF0/jpcvw+CsJg6KPNGTtWjPp5j32dST6
-JkeknH6aVV+mFcVCwM4TUmA6AzM2r0Z8g5Ggqk8jG9VzgCxJcpfKY2UXjtYhOn55
-oKiobNc6QiukPun+hYx+uD0QI7wTrGwZ7nMtdF+VmDKMWktfzvd1eugeYah24XD7
-oSKjBrrfU4s8cvuyERJg0Ya6ZDKw/Mc1Q6ghT6KoiQNp++889VwSdggiqZ7ZL0X1
-3EHsEBtgx2zU6ydKJ2dVuzUAErKIK5puhOvq+o7RZdTo5C2IxRADpfyDTckUiBuf
-huDZwqG34EbRPo9fMY9I6S4f42kv7YB1ZcXrlyhziY3dtorQCJKM6HVeIDDkua0y
-hSIqZeIMqQGr4Zn8Wt2zngfROiOe6PavO7NvQ4gy5mxCaxwS+0Nx7GQ7VGyhUMtQ
-xf3agfR6gD636kSyHwnsRV62xl0K/i6mhQ4fu7qd0A1aoAXylzM2iMtwzGw4Mp8P
-o3HIvCydwCXgHZO8mJB2LkZuQKIfGHFQXXIN+Pb9I8yYXTJ2Ilw=
-=LpaJ
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsp2tkACgkQKKq9SBxY
+wo28ZRAAvZDfDMqKHscoh1zzscRVlNpo8YVHLw8/s4JWk4sU8n9Y3QSRJqZcWmv1
+7TLaTgHvmBgcY1TN8sz63GL0pPcDRj9sbRS5GLG86+wuXMPrUL8GqXTh1zj3m4bh
+qZ3XkAj+GwL3xNa9X3yYFk19T1n+gI9JffIR5ACwqCdWIvNdWaQSDbvGaN3kIFD3
+XV5LOwdr5uZvtn0WTQ19BQTtKhvNzGXhHkvajf7s2YRAdanIsl6jxzEd5V7NFjoe
+adEqnqXTmuztW5Vf5lnbaAkPEZcWruIo77me74ho/GtNiY5rEUdCtB2NelfLXtXD
+ePxHS3on+CpANr34FKjEWD6ubc+rNfs/aWfFRYm/A+hUCbImFG2+nj2HaXGxvnGD
+ZzmsWNRuHKUVlz8ndQwEbLquat1od/8M1p2XgISsFQYKdC40E3m0joVVNaspGN+l
+dW7ImuQpXzEFNFqZlzDcDJcpkzkbTC3kiHw3nTSr8UgQ1/PBGrKe5goMUJYk1VUl
+3RP3trBarU0h3jKAf9c76B/xKvgLB1K/qyGjWeZQ7kRdScBFc/iU3Tb90q4ZMFUy
+NLxTzAUftkJ2VvbQmAwS8nDZdAk6njiSPUghmgltgWjwAyJ1X6TZc5zRoWRiTtDu
+GZir+vqCOCWTpDDZEcn/n7ONbIBYBbTpgbZzFloynIlTK3gjXRg=
+=6d7a
 -----END PGP SIGNATURE-----

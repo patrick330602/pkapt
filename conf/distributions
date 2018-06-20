@@ -1,5 +1,5 @@
 Origin: apt.patrickwu.ml
-Label: pkapt
+Label: ruapt
 Codename: xenial
 Architectures: amd64
 Components: main
@@ -7,23 +7,7 @@ Description: Patrick Wu's apt repository
 SignWith: yes
 
 Origin: apt.patrickwu.ml
-Label: pkapt
-Codename: zesty
-Architectures: amd64
-Components: main
-Description: Patrick Wu's apt repository
-SignWith: yes
-
-Origin: apt.patrickwu.ml
-Label: pkapt
-Codename: artful
-Architectures: amd64
-Components: main
-Description: Patrick Wu's apt repository
-SignWith: yes
-
-Origin: apt.patrickwu.ml
-Label: pkapt
+Label: ruapt
 Codename: bionic
 Architectures: amd64
 Components: main
@@ -31,7 +15,7 @@ Description: Patrick Wu's apt repository
 SignWith: yes
 
 Origin: apt.patrickwu.ml
-Label: pkapt
+Label: ruapt
 Suite: stable
 Codename: stretch
 Architectures: amd64
@@ -40,7 +24,7 @@ Description: Patrick Wu's apt repository
 SignWith: yes
 
 Origin: apt.patrickwu.ml
-Label: pkapt
+Label: ruapt
 Suite: testing
 Codename: buster
 Architectures: amd64
@@ -49,7 +33,7 @@ Description: Patrick Wu's apt repository
 SignWith: yes
 
 Origin: apt.patrickwu.ml
-Label: pkapt
+Label: ruapt
 Suite: unstable
 Codename: sid
 Architectures: amd64

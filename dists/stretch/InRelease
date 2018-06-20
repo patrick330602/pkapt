@@ -2,10 +2,10 @@
 Hash: SHA512
 
 Origin: apt.patrickwu.ml
-Label: pkapt
+Label: ruapt
 Suite: stable
 Codename: stretch
-Date: Mon, 18 Jun 2018 01:29:28 UTC
+Date: Wed, 20 Jun 2018 04:41:07 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository
@@ -23,17 +23,17 @@ SHA256:
  3314ad395d9b0ab74e18c2371bf7f3f1f3cb1ffa3e0693a71988c893889efa54 131 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsnCvkACgkQKKq9SBxY
-wo2s9w//Xfbj/UPcy3ylwzWV5A69hdKO+5ni1MQCeBxZONeMuy1p5zge1v7NbjnL
-4HHufnQNagd5pMV/lrw7xhiwZEIJuOsgx2nbH5OAzu5g1bbolGODuYrLSpaGqi+0
-lhKmidaVVEFC9doxCwu14uctb+cPpO2kVcSpnim8XOBwZnPnUYkmyNPn4sqEK6Hx
-7qzG+DNmlz/5uBYaIDMaILGrrgg0xqrrYUuPD6ocxsAe/062jcs2saKlU7Ex53L3
-Vr8Op648p+c2uJvHxr4SCgHs7zELEOc6XhXWbZZqAC0IOR+lI9dwb4kk3q5yJ/E6
-9rTUBqymN3C6CP45WFRp7Dw65YgsRWErClS9P6opc/lPFzeIWdQCGgIK1TJ+YJFM
-8OhmeSkDJrAew+/Gl6sMuwuMcQtvzZNEBIq3xNRr5WXF1MaIaMhBn/ZhjCt3hAKT
-FFEKL5UMyA4bjWdIhmKPQEL4sG6H3BAPayPoDcKDU01SqDtceTxvFpqulL0GYPfk
-tZ/pueai4kV4RychP6i1VGR/77WSpRgGOSm7fFVFpH+XzwyurjTWPDhzaked1ZuA
-Mu6JcA7xyMmDr0ig/XZBsjkJiLFGyzD5fnL57lzhQKE28UegEEyl/4CYF3ZA85pP
-QyMeMm1AU9cZwyYwRnL1opWOB5GSAlinOFQvaaUWsb/FK9le0ws=
-=jzL0
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsp2uQACgkQKKq9SBxY
+wo3ZuxAAkQOFE2/7FL5/KAVmYRIyoTt7fB1g2QqKGv3sRFSLJdO0y311XE8i/VYA
+U7CLZKvlp8HtXdh5ru0gzLqH2/w63SGu12j4EVtd7BVX8wlkGEi4UQPGH+UiLaVa
++nNYRQNwKDJrOiaUcW9dLPMBheKOWj0ZXYyJ2GKhZKiszuPHjDpmqZ/dKwZUCMhP
+O09I9zfEOV4tIcBulo7XmZgI0JpBoEvvjiXHxDWId5qVe7KaGIpp7GOIRT7rdtlg
+5yw801aAaUqRJ4PEYpdZcHzAC4RNtBwLbx+Jfg3ZRLnDUqeldjgfbe2cfb+fPZ71
+w8v4SlliGpvs+wFsCMxywhKG1PronyNZW4psmw0c8V10OSWnj1Q1EVT8r004NusS
+fOat2VjXF9KczvOEGtZxx84q4wnE2045LNspI4PpbREJEafb6fHuWKMjbtCpVgBQ
+UGrOf3GfTW6idGxH/iByISadJ6BfSKTzeYOkETLQgrsGhUGxRQl73VJidt+vL4Z7
+/Qpc8ciZrmlJnjDlOV2e8LYS975YZS7Jkh1jlmCOl0inGi7WSHERp/bEPeeHQkY9
+r8D49p0Eb7ZNOsupnFZrUAwhOJMursTGSEuC5UUH8B2ixNBTBjPi3asPAhozBc4C
+kyF0C2gzsgGwns9Nl7Tjzt3HOgoPVpPdlz47B4vT7kx6MkkXTRw=
+=qh03
 -----END PGP SIGNATURE-----
