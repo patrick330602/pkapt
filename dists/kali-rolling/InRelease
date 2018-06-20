@@ -3,36 +3,55 @@ Hash: SHA512
 
 Origin: apt.patrickwu.ml
 Label: ruapt
+Suite: kali-rolling
 Codename: kali-rolling
-Date: Wed, 20 Jun 2018 09:13:10 UTC
+Date: Wed, 20 Jun 2018 11:00:23 UTC
 Architectures: amd64
-Components: main
+Components: main contrib non-free
 Description: Patrick Wu's apt repository
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
+ afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
  34bd3bb2ff514feeaa2ab8eb08fadd75 115 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-amd64/Packages.gz
+ eb66ca32f7279e39e4b6d497933a41d3 140 contrib/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-amd64/Packages.gz
+ e8c99b5febb013959cc496b8f6bd3a3f 141 non-free/binary-amd64/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
+ 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
  a980d58c6b4873141498168fa69aa7e5ceeb28bb 115 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-amd64/Packages.gz
+ 62172d6de8c1a7e97933ba1ab03b471718ca7e73 140 contrib/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-amd64/Packages.gz
+ 220f75fa8827be7fced60da23bf0d044b54ec051 141 non-free/binary-amd64/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
+ d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
  cff522e687a0a521c3b5c23d299131024fbfab7de97a4c9d276099ca542cccb6 115 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-amd64/Packages.gz
+ f1c6f83668046c4c1e7a15427a8c83301e78de09b001612b484c968d690f7fb6 140 contrib/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-amd64/Packages.gz
+ 63412c3d5c688e14d2a2a9594d0f49f5ab6c038036ca8c603bb7a68b2cc3c9d0 141 non-free/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsqGqoACgkQKKq9SBxY
-wo3msQ//WE9rQ3995mBY43gMEs1uVe/D24jAVGWID7O1g1YjBn4y/Y3y06Suhemg
-N87FUWO07+Q+b5WcXS0GZAZpWrN2ASoDO+3Y0SZT9OeQ21ej/Sa1tEjnM8ikdCZC
-Et23NtRBD8uv2eGCV8WcU5Lmsvq3/RHPpkxAQfi8cj3i4JZs+x8AtHrDmDBiPUdr
-cKiFAieN8HMuDR38vliJRa0uJBUyP751DH1GRS8ppQLXJLQz/8SFqUuk3sIG6XLN
-fn6vDyWJNlKGEuLAO17wX40PMaO2/SlFzNTKZnzo7N1yyl7F75fTW7AL69h/Y0C6
-KJns1uYwcVyw3FMH13q965qtpaH2xnLt+UAtPKj+KX1/gg2pEcyPX631T7XOdVSo
-MABDqBtJ7N/xbBhwrBfWxtbNzNxr91cuDklmAmRB9V06R+JEg3rgm+s0W9lNk5rt
-ZR1OJPwSIdhS4gLeuT5Md3S8THMQivRbPvC96kaB4yercXfiMJhtyzI0yP6OzY4G
-VhiBJ2LpLaSBeWj7nAKEQuOyvDmSZBTBMCljeyhOwBNK0zblMOKHfbDMm/skm3jF
-bdOhGM/mBrMxpJ3Fxb78UFUOJhRkntdJlT92c/gDh0C8MYgsyDktwQ9d/jI8GWUS
-E6//M0Ts7NmUKmRfCWEmm8eIlXs0aDpSWHDIzkmsXU6WSs85sfs=
-=HEZk
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsqM8gACgkQKKq9SBxY
+wo2ldw//We2yo5QCNBRkbxXRaPJItmFN6JSDw0X77x8FUzPo0mAxSjEGlKm90NOU
+ZZJl3MimrLZ5j9xiTEyB6tmSg3GajKFq1Vc7CEd7Nre8X1ZhE1XQ0AC1sjUZ6MX3
+FbgmS3rUQsSj0Rya2hufBjzl/9G47aF1JQp3ZDsWRbYSxqALpY8mTtbTCRtMKCu9
+0B+u50ozfR+0EFMbY+R2aRts3aob/Di18p0geJxUKctvWkRXnGZwATX3nQZZgyrL
+xZnJ6/B+C49dwTvU30Ttdw77LGk9QgMNYIkZn+fZLznw4g99dUg4Bg7SqwSwUjpM
+zq1aP7XRcInCx20C74Nmt6VtX6Ksgdp40xt33Eh4DI7yt96zIDRjtbDv2P66n323
+Sjl+7cLF+GC+mJIvIfz2FDWKJacxKXNelpD7tfVh9onT+glD2bSKzcrWFT0FWAve
+viUIv+Ouxo/TdEiwcmWJaHaRyvdRDhrlinmlI37LXCUvgQtvqmkxjp80/s8bQ83T
+1aNKnEogOUMX8N9yZnltTXKyF6muNzXE5vh5jKRvdYspVenWsviGcY//8IqGyyEz
+H638yB4r5WZ/sWOUIMdY+meQu2aReAFy0zypYEuMAwtVCQRmjIpChafMZ2EgO24P
+8OOIIbai8BCJwaYKN+1+fddCRNwv5poK8f6ivfN2BdYP43wxaZE=
+=sBS9
 -----END PGP SIGNATURE-----
