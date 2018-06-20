@@ -2,14 +2,14 @@
 
 > rua!!!!
 
-ruapt is a personal repository of mine, for Ubuntu 16.04, 18.04 and Debian 9.
+ruapt is a personal repository of mine, for Ubuntu 16.04, Ubuntu 18.04, Debian 9 and Kali Linux.
 
 ## Usage
 
-In order to add this repository, install `add-apt-repository` by install `software-properties-common` on your debian or ubuntu:
+In order to add this repository, install dependencies using the following commands:
 
 ```bash
-sudo apt install software-properties-common
+sudo apt install software-properties-common apt-transport-https
 ```
 
 Then add key and repository and update the repo using the following commands:
