@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: apt.patrickwu.ml
+Label: ruapt
+Codename: kali-rolling
+Date: Wed, 20 Jun 2018 08:58:18 UTC
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+MD5Sum:
+ 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
+ afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ 34bd3bb2ff514feeaa2ab8eb08fadd75 115 main/binary-amd64/Release
+SHA1:
+ a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
+ 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ a980d58c6b4873141498168fa69aa7e5ceeb28bb 115 main/binary-amd64/Release
+SHA256:
+ cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
+ d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ cff522e687a0a521c3b5c23d299131024fbfab7de97a4c9d276099ca542cccb6 115 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsqFy4ACgkQKKq9SBxY
+wo1tVBAA0jIUH5R8FT1AoQ1RJrW2gbjiHOzQ3TkxI3ktrSL4KybCijqZ46y2RDU0
+hlNOj8Mcwba3gly6zh2wvlPl7AtDVNpJdqo01AjCvAeifiRyU8aIZXIv93Oa0z+0
+ej6ldKzFPLh93tvVATSVVjZSb3W+mtF886iKxN4R2c4E7cAmisa6G9FvfdM2gH8R
+s2tpxW8PvqQlFHIIHkwp7zynGI6owNrJQ6rrkKcpob+N5GMuMeaQTotyIhFxNxyw
+0WsxpgYSg5nuYbfwBSzQ8YHaUKpLJE3QuSbOR2itEgsKC1CDBPyPxqqdOTcu0Oaf
+jEOtNAe+gCEh46KkuydsNL0jxWkFAfMWSV6kJF1CfInayJnOM1nhlNguS0hIQrAm
+9k7arcgrsvj61ByzOtLnazTSgzE/EPX70U6gmh96PJC346j5ywFOIN5GNobOCvy/
+1jGD7bgGrTuIGAxXfCTmdQRmpf/K9PxA7upW8AMshNYPCQQmkGF268aiZDeQZsU1
+GC4t1xL65+CAZO6Ogmh3M12O+2siYAh4X46V6YZotXiaLOEAV3V4JrrxlLdirNE9
+26pPQ5Te7EYNTmoKsTcwf3y6n/jncbzvo2RcW0e9YJvgkpyrnxhKaiQW9qM+Hi0P
+GkWATrozUcvMGAtOCpnZLRGc6lK1xnlFIRm1IQq66N6+HRhLWmg=
+=cVID
+-----END PGP SIGNATURE-----

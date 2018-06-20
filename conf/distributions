@@ -41,3 +41,11 @@ Components: main
 Description: Patrick Wu's apt repository
 SignWith: yes
 
+Origin: apt.patrickwu.ml
+Label: ruapt
+Codename: kali-rolling
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+SignWith: yes
+
