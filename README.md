@@ -1,6 +1,8 @@
 # ruapt
 
-pkapt is a personal repository of mine, for Ubuntu's `xenial`, `zesty`, `artful`, `bionic` and Debian's `stretch`.
+> rua!!!!
+
+ruapt is a personal repository of mine, for Ubuntu 16.04, 18.04 and Debian 9.
 
 ## Usage
 
