@@ -1,4 +1,4 @@
-# pkapt
+# ruapt
 
 pkapt is a personal repository of mine, for Ubuntu's `xenial`, `zesty`, `artful`, `bionic` and Debian's `stretch`.
 
