@@ -19,3 +19,14 @@ wget -O - https://apt.patrickwu.ml/pkapt.key | sudo apt-key add -
 sudo add-apt-repository https://apt.patrickwu.ml/
 sudo apt update
 ```
+
+### Kali Linux
+
+Kali Linux do not support `add-apt-repository` properly, so you should use the following commands instead:
+ 
+```bash
+sudo apt install apt-transport-https
+wget -O - https://apt.patrickwu.ml/pkapt.key | sudo apt-key add -
+sudo echo "deb https://apt.patrickwu.ml/ kali main" >> /etc/apt/sources.list 
+sudo apt update
+sudo apt install wslu
