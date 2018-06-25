@@ -5,13 +5,13 @@ Origin: apt.patrickwu.ml
 Label: ruapt
 Suite: kali-rolling
 Codename: kali-rolling
-Date: Wed, 20 Jun 2018 11:00:23 UTC
+Date: Mon, 25 Jun 2018 05:34:15 UTC
 Architectures: amd64
 Components: main contrib non-free
 Description: Patrick Wu's apt repository
 MD5Sum:
- 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
- afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
  34bd3bb2ff514feeaa2ab8eb08fadd75 115 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-amd64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-amd64/Packages.gz
@@ -20,8 +20,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-amd64/Packages.gz
  e8c99b5febb013959cc496b8f6bd3a3f 141 non-free/binary-amd64/Release
 SHA1:
- a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
- 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
  a980d58c6b4873141498168fa69aa7e5ceeb28bb 115 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-amd64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-amd64/Packages.gz
@@ -30,8 +30,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-amd64/Packages.gz
  220f75fa8827be7fced60da23bf0d044b54ec051 141 non-free/binary-amd64/Release
 SHA256:
- cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
- d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
  cff522e687a0a521c3b5c23d299131024fbfab7de97a4c9d276099ca542cccb6 115 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-amd64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-amd64/Packages.gz
@@ -41,17 +41,17 @@ SHA256:
  63412c3d5c688e14d2a2a9594d0f49f5ab6c038036ca8c603bb7a68b2cc3c9d0 141 non-free/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlsqM8gACgkQKKq9SBxY
-wo2ldw//We2yo5QCNBRkbxXRaPJItmFN6JSDw0X77x8FUzPo0mAxSjEGlKm90NOU
-ZZJl3MimrLZ5j9xiTEyB6tmSg3GajKFq1Vc7CEd7Nre8X1ZhE1XQ0AC1sjUZ6MX3
-FbgmS3rUQsSj0Rya2hufBjzl/9G47aF1JQp3ZDsWRbYSxqALpY8mTtbTCRtMKCu9
-0B+u50ozfR+0EFMbY+R2aRts3aob/Di18p0geJxUKctvWkRXnGZwATX3nQZZgyrL
-xZnJ6/B+C49dwTvU30Ttdw77LGk9QgMNYIkZn+fZLznw4g99dUg4Bg7SqwSwUjpM
-zq1aP7XRcInCx20C74Nmt6VtX6Ksgdp40xt33Eh4DI7yt96zIDRjtbDv2P66n323
-Sjl+7cLF+GC+mJIvIfz2FDWKJacxKXNelpD7tfVh9onT+glD2bSKzcrWFT0FWAve
-viUIv+Ouxo/TdEiwcmWJaHaRyvdRDhrlinmlI37LXCUvgQtvqmkxjp80/s8bQ83T
-1aNKnEogOUMX8N9yZnltTXKyF6muNzXE5vh5jKRvdYspVenWsviGcY//8IqGyyEz
-H638yB4r5WZ/sWOUIMdY+meQu2aReAFy0zypYEuMAwtVCQRmjIpChafMZ2EgO24P
-8OOIIbai8BCJwaYKN+1+fddCRNwv5poK8f6ivfN2BdYP43wxaZE=
-=sBS9
+iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlswftsACgkQKKq9SBxY
+wo3fKQ/9HJVdU07v4NA2ebLIGNzw9fayokemlJskpDw8EV55etjgaSlg5sUNWHKG
+47cmfWwICAY/UtciFcl0FuvwFD19wh92Y3BQtadwRcMTOi0JtsIr9gDC5zoDvTZw
+G+iR3iBm4Si4fpNg5czzXqwBGY2g+VB3gDZmDPNnDzNLHt94b5xOgWexJvMqphWa
+ZMyI/FaCO1rEfXK60i1wQTDKPwaMJjRXXZWYYU402mJHzw4q5IAe+1C9hIT0eVH+
+fXPqeAYQ+B1OJlS4F8MudR7o3c6ZIig7PU+4D9Tx341KExYgr3goeNzKZnDAXdBm
+BXxtbJqJXNN6sBHRrqvHmkdMZBpV4U+CNmBG9Im8AyShcw3BkEl3I7wvcdQwOWph
+WDGtRbzzvxbXHhf6iQ0fJY+Z1o3VdSMPI5sijEjYRR8rSCrHacjGLptD9mhm12MX
+9xLvocJZhgdGftpbKgCFIxFe8SVHSlbDudbdRY3EUN4W/dDrp99T8BoJRX5H/M6j
+4IgTl0ed9bFlpdVNjjb8TR4Kq0Yh8WvDxZ5SIVrfblNpHcT9QdNfU6jH5h1a+lYA
+iQ+2eIzDQEREAlG8FNdjv3AnwwEHaqBjh4O7kE1VDYTKF9+LYtDBYsYY1qTMK6dr
+dLiNpmrqWer1TpAKGRq936PbWiWSthn++Rfgp+CV+SzGUlEbQpY=
+=RQUs
 -----END PGP SIGNATURE-----

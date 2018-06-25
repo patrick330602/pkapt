@@ -2,13 +2,13 @@ Origin: apt.patrickwu.ml
 Label: ruapt
 Suite: kali-rolling
 Codename: kali-rolling
-Date: Wed, 20 Jun 2018 11:00:23 UTC
+Date: Mon, 25 Jun 2018 05:34:15 UTC
 Architectures: amd64
 Components: main contrib non-free
 Description: Patrick Wu's apt repository
 MD5Sum:
- 30f454b4e68861e9008db67e6f542b5d 703 main/binary-amd64/Packages
- afe2327f830f0f9e07f7b61879c9ebfd 478 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
  34bd3bb2ff514feeaa2ab8eb08fadd75 115 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-amd64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-amd64/Packages.gz
@@ -17,8 +17,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-amd64/Packages.gz
  e8c99b5febb013959cc496b8f6bd3a3f 141 non-free/binary-amd64/Release
 SHA1:
- a6c6d9742962b5fb8fe19a476954089207ba9c05 703 main/binary-amd64/Packages
- 135e5797e0d35079945d88651ded85a6c5cb7ba6 478 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
  a980d58c6b4873141498168fa69aa7e5ceeb28bb 115 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-amd64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-amd64/Packages.gz
@@ -27,8 +27,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-amd64/Packages.gz
  220f75fa8827be7fced60da23bf0d044b54ec051 141 non-free/binary-amd64/Release
 SHA256:
- cd58a995da0cef8346b9befea26ac2f146f72e8a2b0ed8b84cdb8bf7ed4a72d5 703 main/binary-amd64/Packages
- d993c6ee83a65b5ddd30f6a17c80144f2b846ab62b4ae40bb1859ee17ff3b6e8 478 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
  cff522e687a0a521c3b5c23d299131024fbfab7de97a4c9d276099ca542cccb6 115 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-amd64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-amd64/Packages.gz
