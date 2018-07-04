@@ -1,3 +1,18 @@
+Package: tltk
+Architecture: all
+Maintainer: Patrick Wu <wotingwu@live.com>
+Depends: python3
+Version: 0.1-1
+Priority: optional
+Section: utils
+Filename: pool/main/t/tltk/tltk_0.1-1_all.deb
+Size: 3590
+SHA256: 6470a80adf5e2882360fc95a23e46fdf913becb1694089dd92e495f0d5e8ed6f
+SHA1: 51f134e26e6b72112c271384690d5a9498e67450
+MD5sum: 85db97b77a4667cacc9428b375244686
+Description: Tiny Little ToolKit
+ This is a small collection of utilities by me using python3. 
+
 Package: wslu
 Architecture: all
 Maintainer: Patrick Wu <wotingwu@live.com>
