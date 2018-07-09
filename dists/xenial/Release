@@ -1,19 +1,19 @@
 Origin: apt.patrickwu.ml
 Label: ruapt
 Codename: xenial
-Date: Wed, 04 Jul 2018 08:13:41 UTC
+Date: Mon, 09 Jul 2018 03:52:45 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository
 MD5Sum:
- f8cad2271510baf236dc114132f049cc 1159 main/binary-amd64/Packages
- 8abe33554b6c57657cbbe977a9660382 659 main/binary-amd64/Packages.gz
+ ae292a5da800971d2eeb023bfc10d363 1159 main/binary-amd64/Packages
+ 6caa944eeb62ed480632ce7c436e38ba 660 main/binary-amd64/Packages.gz
  5ab12b36647d72129220550bb52dfd70 115 main/binary-amd64/Release
 SHA1:
- 46cdf7f56fe036c4f4cb0014b63214bc0c6cf22e 1159 main/binary-amd64/Packages
- daaa9be79899957202ee3e05ff6cfa5ccc2b8de2 659 main/binary-amd64/Packages.gz
+ fbb891c8590244141dc60cd8a18760eefc9cc48f 1159 main/binary-amd64/Packages
+ 9aa015c0c645331ef78815d6b142b59f7ef26f49 660 main/binary-amd64/Packages.gz
  6664eda441d6798d910bb5e35e3acfea63e1a35a 115 main/binary-amd64/Release
 SHA256:
- 39d0aa143a8b137c84d5dba2e3ee2a4709b3ed7998a95fc8bed6c831c1aa7917 1159 main/binary-amd64/Packages
- e45a9ae7445a06c84de9d3c905f1da1d46acbf3eac6a9bf719528c74fbeac2bb 659 main/binary-amd64/Packages.gz
+ c0516ffcbe40f20c67972bc934bfdc164c49c0420a635d6cbe0b99cf2f3c847c 1159 main/binary-amd64/Packages
+ 51056cd956f3359fc2ff2f5c48ff6d0207d801d5a569017a61af2587d2ed7a0f 660 main/binary-amd64/Packages.gz
  12959bb6084dc403d698d31a4daf870503e471f2340cecc51be8a145cdf3bf4e 115 main/binary-amd64/Release
