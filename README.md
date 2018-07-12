@@ -9,24 +9,22 @@ ruapt is a personal repository of mine, for Ubuntu 16.04, Ubuntu 18.04, Debian 9
 In order to add this repository, install dependencies using the following commands:
 
 ```bash
-sudo apt install software-properties-common apt-transport-https
+sudo apt install lsb-release apt-transport-https
 ```
 
-Then add key and repository and update the repo using the following commands:
+you can use the following ways to add key:
 
 ```bash
-wget -O - https://apt.patrickwu.ml/pkapt.key | sudo apt-key add -
-sudo add-apt-repository https://apt.patrickwu.ml/
-sudo apt update
+# from OpenPGP Keyserver
+sudo apt-key adv --recv-key --keyserver pool.sks-keyservers.net 0x1C58C28D
+
+# from my own server
+wget -O - https://api.patrickwu.ml/public.key | sudo apt-key add -
 ```
 
-### Kali Linux
-
-Kali Linux do not support `add-apt-repository` properly, so you should use the following commands instead:
+then add repository using the follwing command:
  
 ```bash
-sudo apt install apt-transport-https
-wget -O - https://apt.patrickwu.ml/pkapt.key | sudo apt-key add -
-sudo echo "deb https://apt.patrickwu.ml/ kali main" >> /etc/apt/sources.list 
+sudo echo "deb https://apt.patrickwu.ml/ `lsb_release -c -s` main" >> /etc/apt/sources.list 
 sudo apt update
-sudo apt install wslu
+```
