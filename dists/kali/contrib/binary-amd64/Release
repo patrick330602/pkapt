@@ -1,5 +1,0 @@
-Component: contrib
-Origin: apt.patrickwu.ml
-Label: ruapt
-Architecture: amd64
-Description: Patrick Wu's apt repository
