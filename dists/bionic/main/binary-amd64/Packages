@@ -19,14 +19,14 @@ Maintainer: Patrick Wu <wotingwu@live.com>
 Depends: bc, wget, unzip, lsb-release
 Recommends: git
 Suggests: build-essential
-Version: 1.6-1
+Version: 1.7-0~20180903092937
 Priority: optional
 Section: utils
-Filename: pool/main/w/wslu/wslu_1.6-1_all.deb
-Size: 82700
-SHA256: e5d458c2718b0f920d9988cb66249874b385a25ee60c8000e665e63ff7fede96
-SHA1: 69151b967c7982a5d07e41da50ae375afa55fdf7
-MD5sum: 4d0c6076da60b1f3fe36726c6a1b9919
+Filename: pool/main/w/wslu/wslu_1.7-0~20180903092937_all.deb
+Size: 82626
+SHA256: 603cb1be1586e1ab2bd4c070e03407d533193918702b7ca053081f4df279063d
+SHA1: 5a5b393150aa23ac67f1f46a6d4149f00bee61ba
+MD5sum: 196f96a693e18a9166116330b38ead96
 Description: A collection of utilities for Windows 10 Linux Subsystem
  This is a collection of utilities for Windows 10 Linux Subsystem, such as enabling sound in WSL or creating your favorite linux app shortcuts on Windows 10 Desktop. Requires Windows 10 Creators Update and higher.
 

@@ -2,19 +2,19 @@ Origin: apt.patrickwu.ml
 Label: ruapt
 Suite: testing
 Codename: buster
-Date: Wed, 25 Jul 2018 05:25:25 UTC
+Date: Mon, 03 Sep 2018 01:36:02 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository
 MD5Sum:
- d517ca8f3410440048ed5d6d2c23c0c1 1164 main/binary-amd64/Packages
- f49fa15ae559667383953dab060b35d6 661 main/binary-amd64/Packages.gz
+ 5d53dee556fe6bf044d5f2e13788b349 1194 main/binary-amd64/Packages
+ 5a92a7f1f4c55c98dd3770eae75743b1 672 main/binary-amd64/Packages.gz
  0ea2b4d1a04dcf5a9a51059f7625033a 132 main/binary-amd64/Release
 SHA1:
- b488dfc04d0195948a27f7a0e735ea541331a57e 1164 main/binary-amd64/Packages
- a4a20e1160af61b2573234e93fafa720a051618e 661 main/binary-amd64/Packages.gz
+ b1e62342293faba3a36cd8888f8fc36cdda2fd2f 1194 main/binary-amd64/Packages
+ a2f0f0fc9068aec62370400977b38f8d362a2a44 672 main/binary-amd64/Packages.gz
  5ca71515a16365d65eeff2e0b30563b256f6a76f 132 main/binary-amd64/Release
 SHA256:
- 154f45e1dce83d26b720dff31cb5264ca505dc7ae67eb4454b5f997ebf1b593f 1164 main/binary-amd64/Packages
- ba157d90f536a7b57f362b4eddd3348bfb2d62f00186e5dd916e34b7dbc1ad20 661 main/binary-amd64/Packages.gz
+ cce7d28cb9db2d4dd66ac761764823c807877665775405986a3bd1e70c18ec67 1194 main/binary-amd64/Packages
+ dee21fd60b31bbdd039f7fbafc9949db7245e9dfd62b23ec54d989ff43a369a3 672 main/binary-amd64/Packages.gz
  385198be1fca22e69ab1c99cff055f979d295535c87d943d3a45061826d40b5a 132 main/binary-amd64/Release

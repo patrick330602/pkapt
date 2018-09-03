@@ -1,38 +1,38 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 Origin: apt.patrickwu.ml
 Label: ruapt
 Codename: xenial
-Date: Wed, 25 Jul 2018 05:23:44 UTC
+Date: Mon, 03 Sep 2018 01:35:59 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository
 MD5Sum:
- d517ca8f3410440048ed5d6d2c23c0c1 1164 main/binary-amd64/Packages
- f49fa15ae559667383953dab060b35d6 661 main/binary-amd64/Packages.gz
+ 5d53dee556fe6bf044d5f2e13788b349 1194 main/binary-amd64/Packages
+ 5a92a7f1f4c55c98dd3770eae75743b1 672 main/binary-amd64/Packages.gz
  5ab12b36647d72129220550bb52dfd70 115 main/binary-amd64/Release
 SHA1:
- b488dfc04d0195948a27f7a0e735ea541331a57e 1164 main/binary-amd64/Packages
- a4a20e1160af61b2573234e93fafa720a051618e 661 main/binary-amd64/Packages.gz
+ b1e62342293faba3a36cd8888f8fc36cdda2fd2f 1194 main/binary-amd64/Packages
+ a2f0f0fc9068aec62370400977b38f8d362a2a44 672 main/binary-amd64/Packages.gz
  6664eda441d6798d910bb5e35e3acfea63e1a35a 115 main/binary-amd64/Release
 SHA256:
- 154f45e1dce83d26b720dff31cb5264ca505dc7ae67eb4454b5f997ebf1b593f 1164 main/binary-amd64/Packages
- ba157d90f536a7b57f362b4eddd3348bfb2d62f00186e5dd916e34b7dbc1ad20 661 main/binary-amd64/Packages.gz
+ cce7d28cb9db2d4dd66ac761764823c807877665775405986a3bd1e70c18ec67 1194 main/binary-amd64/Packages
+ dee21fd60b31bbdd039f7fbafc9949db7245e9dfd62b23ec54d989ff43a369a3 672 main/binary-amd64/Packages.gz
  12959bb6084dc403d698d31a4daf870503e471f2340cecc51be8a145cdf3bf4e 115 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAltYCWEACgkQKKq9SBxY
-wo1OURAAsbis2ducAes1eFw2vSQQifQjrnrgQwsbMsN3WYUimKDyCKOj3jKT2NJr
-TCSVix7yN+h9CBRVhFHCoCdQR7vNybcv72RNC9q+Adw4hXJGZkuxU8OWTtrVJUfR
-nQVpQ1uKfGjSxlDkqnGi6XDJ3U7wtgYdDfORk2BgPwMtBxZ+/23prkmzOna5/QVn
-A4cgGek5InBtr1644cpfR6XLVynhSOiII2OIOhAerycaqCWV1g5x67T2yTRa/NSV
-N/XomniwgrpP/W37uc0/LdXIvru8FzL8u1BTeG+Ea/elUtkb0WOdzRKosOja1WP4
-FJiF2FZJW8FmClE56Yw9IJmGXktomYyX4rr6Ic5v6Id0sl31Yx+t7aNtwFQZ+5ya
-03ZuZ6797XpIKY9HWysR/JI0CRhsshOgbQvZM+XzHD2rA/XLtTdoNq08CcrTl//c
-KdDl9tb+4Yg/glq6NQeg+tihGH8eEEdGTgr2iSHutvQ+j/Dkw1+TY4RjNXbwDiss
-XZMBNrTP1kOi/YraXJYOgwovku1J0xp9ImqOD/UWPKCus7b5rmvFK6dTVYTMnlGf
-JZOCB+ho+eEkep3X5cFwL+nwhabK3BgkLvB1lON25C1Vv8hbSDQCqZw3pKa9WMkc
-ZFFpPRhMNxImC4lAerzX/8Tv2Liud8oMJJiNFXIYUD20jLwVE3U=
-=dQEi
+iQIzBAEBCAAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAluMkAAACgkQKKq9SBxY
+wo0M8w/+OnskpztTVQ+bGkLj5ZdSLdORGiiEJjkMr0EYx7uQFwxmZ9WvVX8X2fmj
+WADUJPAuMkZsvm+wRBqX/IjOE6jn5uWFaTARwcv3IV3k4uJwnY36pkq5jZo8nWsX
+YO6dRC8eCBNqywg87jQ5DKfOdIQLnI9cw7/HMnbhe8eZ35WC+BDtC8zQMcDYBXmN
+Wk1+bh4PhLbV6IMcor1JKWZfWKBC97etQdvmoc8MRcOKkVUAw47QR/zQNfDDNa0x
+9JvPT4Z2EgtNQr0FP9tfMURzBRDhi3mM+DRNRtxURtxxh7bi3SmLYg/zytQYhy8G
+yJmVvE6Kismn7kzHD/53BMTK3XUWzYsgoWjG6zgmztvZ6HqmV+4pEHWISZD4GBqy
+5rIqBy2FMwJ8rvQYsA76ECK4kWhmnKy4vakYf+fjFfyqPgnphY4tIODdK2byjLb6
+PwQWvAGbKoLRlneu/hfM3xxwvBbQ0LmRldBogtMIrUqbG2E0AYN8M3mtp+WPNGN7
+5HEQwrblJ/NQf3yrPDATM2bj6sEANjtqA7G8Kttl8ChtGwKW7ud4yAekcmBwk1JE
+Tu+AZbaCzww6ghULQY6pwyVDpZy+sYpU3fmWX4I8+ojOSBKW4y7Rl8Bjd8/CKL2u
+Ke5mYPbFIiP99cD9Ib4aAGgifALJrAeFTDZH44/BuVuFqKgTxA0=
+=6EHa
 -----END PGP SIGNATURE-----
