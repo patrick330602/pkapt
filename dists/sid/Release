@@ -2,19 +2,19 @@ Origin: apt.patrickwu.ml
 Label: ruapt
 Suite: unstable
 Codename: sid
-Date: Mon, 03 Sep 2018 01:36:03 UTC
+Date: Mon, 03 Sep 2018 05:13:20 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository
 MD5Sum:
- 5d53dee556fe6bf044d5f2e13788b349 1194 main/binary-amd64/Packages
- 5a92a7f1f4c55c98dd3770eae75743b1 672 main/binary-amd64/Packages.gz
+ 31440e2d1dc9660c6c4d0befccc1a08d 1196 main/binary-amd64/Packages
+ fef112fd889fcf72a5b023bdf50cce85 674 main/binary-amd64/Packages.gz
  ba501093fdb48661dc843786a92694a4 133 main/binary-amd64/Release
 SHA1:
- b1e62342293faba3a36cd8888f8fc36cdda2fd2f 1194 main/binary-amd64/Packages
- a2f0f0fc9068aec62370400977b38f8d362a2a44 672 main/binary-amd64/Packages.gz
+ 7ea96208a552635ed24a8d3d9e822ab55d10d1c3 1196 main/binary-amd64/Packages
+ 02126d9b1036f5b6ec2541e6777a9e3e6f7c5794 674 main/binary-amd64/Packages.gz
  90d50bfdedfc5acdfee514e8304544f124833428 133 main/binary-amd64/Release
 SHA256:
- cce7d28cb9db2d4dd66ac761764823c807877665775405986a3bd1e70c18ec67 1194 main/binary-amd64/Packages
- dee21fd60b31bbdd039f7fbafc9949db7245e9dfd62b23ec54d989ff43a369a3 672 main/binary-amd64/Packages.gz
+ 230460820f32200cc4378e1f4be5fff0fd1e9728504f8134525980c06e4a9ed8 1196 main/binary-amd64/Packages
+ 521a814b45173c21fbc4425b650318e5c1df29de752695176da9f31d96895b5a 674 main/binary-amd64/Packages.gz
  23c1825c6de045bb81124e97e0f43ca17dccd69233c8b29849a6e4fb16ef18bb 133 main/binary-amd64/Release
