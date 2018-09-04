@@ -25,6 +25,6 @@ wget -O - https://api.patrickwu.ml/public.key | sudo apt-key add -
 then add repository using the follwing command:
  
 ```bash
-sudo echo "deb https://apt.patrickwu.ml/ `lsb_release -c -s` main" >> /etc/apt/sources.list 
+echo "deb https://apt.patrickwu.ml/ `lsb_release -c -s` main" | sudo tee -a /etc/apt/sources.list 
 sudo apt update
 ```
