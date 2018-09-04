@@ -1,19 +1,19 @@
 Origin: apt.patrickwu.ml
 Label: ruapt
 Codename: kali-rolling
-Date: Mon, 03 Sep 2018 05:13:20 UTC
+Date: Tue, 04 Sep 2018 05:19:26 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository
 MD5Sum:
- 31440e2d1dc9660c6c4d0befccc1a08d 1196 main/binary-amd64/Packages
- fef112fd889fcf72a5b023bdf50cce85 674 main/binary-amd64/Packages.gz
+ e4b46751f8047aabd2022f261336c73d 1196 main/binary-amd64/Packages
+ e6a806e3afd19cad0553ac1dc98070cc 676 main/binary-amd64/Packages.gz
  34bd3bb2ff514feeaa2ab8eb08fadd75 115 main/binary-amd64/Release
 SHA1:
- 7ea96208a552635ed24a8d3d9e822ab55d10d1c3 1196 main/binary-amd64/Packages
- 02126d9b1036f5b6ec2541e6777a9e3e6f7c5794 674 main/binary-amd64/Packages.gz
+ 304b3ba9fe1053cb842e87dbd50f3cdbd172dad2 1196 main/binary-amd64/Packages
+ 6821f8e15021c3e7047db4b9f9928d37c6ebde8c 676 main/binary-amd64/Packages.gz
  a980d58c6b4873141498168fa69aa7e5ceeb28bb 115 main/binary-amd64/Release
 SHA256:
- 230460820f32200cc4378e1f4be5fff0fd1e9728504f8134525980c06e4a9ed8 1196 main/binary-amd64/Packages
- 521a814b45173c21fbc4425b650318e5c1df29de752695176da9f31d96895b5a 674 main/binary-amd64/Packages.gz
+ fa1922e9a8b9c0e3e53bee03c305efd95f5d7bd2d9f9deec79430369df6b72d4 1196 main/binary-amd64/Packages
+ 568bd79be559cc72d8dc6ba04e611698648619adb373b5f6590bb2652488b460 676 main/binary-amd64/Packages.gz
  cff522e687a0a521c3b5c23d299131024fbfab7de97a4c9d276099ca542cccb6 115 main/binary-amd64/Release
