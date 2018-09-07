@@ -49,3 +49,11 @@ Components: main
 Description: Patrick Wu's apt repository
 SignWith: yes
 
+Origin: apt.patrickwu.ml
+Label: ruapt
+Codename: wlinux
+Architectures: amd64
+Components: main
+Description: Patrick Wu's apt repository
+SignWith: yes
+
