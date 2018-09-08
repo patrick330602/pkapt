@@ -1,3 +1,32 @@
+Package: nms
+Architecture: all
+Maintainer: Ferdinand Thiessen <rpm@fthiessen.de>
+Version: 0.3.3-1
+Conflicts: nms-ncurses
+Priority: optional
+Section: utils
+Filename: pool/main/n/nms/nms_0.3.3-1_all.deb
+Size: 13918
+SHA256: 5128a2c385509262d0cc2d5d555532af325f1db53c6a8172e9e62550aeadd436
+SHA1: 07398a903952b13e760a79e628b6ba8ace9c9715
+MD5sum: 52b59ffbdf263d98ee6e8ca5a015dce0
+Description: A tool set to recreate the famous "decrypting text" effect as seen in the 1992 movie Sneakers.
+
+Package: nms-ncurses
+Architecture: all
+Maintainer: Ferdinand Thiessen <rpm@fthiessen.de>
+Version: 0.3.3-1
+Depends: lib32ncurses5-dev
+Conflicts: nms
+Priority: optional
+Section: utils
+Filename: pool/main/n/nms-ncurses/nms-ncurses_0.3.3-1_all.deb
+Size: 13726
+SHA256: a53cb77fa517f951663c7058bdc571154ef90097d59952398a797c02be8d2841
+SHA1: e6ea4ad66838dbfc3858034acf01a7c555fb7b0b
+MD5sum: 99250de87fa95cc1d66b8ed88d0f270b
+Description: A tool set to recreate the famous "decrypting text" effect as seen in the 1992 movie Sneakers.
+
 Package: tltk
 Architecture: all
 Maintainer: Patrick Wu <wotingwu@live.com>
