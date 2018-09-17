@@ -2,7 +2,7 @@
 
 > rua!!!!
 
-ruapt is a debian package repository for me and wslutilities.
+ruapt is a debian package repository for my packages and wslutilities.
 
 ## Usage
 
