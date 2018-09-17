@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: apt.patrickwu.ml
+Label: ruapt
+Architecture: amd64
+Description: Ruapt repository

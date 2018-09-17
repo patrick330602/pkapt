@@ -1,0 +1,56 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: apt.patrickwu.ml
+Label: ruapt-toolkit
+Codename: toolkit
+Date: Mon, 17 Sep 2018 06:41:57 UTC
+Architectures: arm64 i386 amd64
+Components: main
+Description: Patrick Wu's apt repository for personal use
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ cdf765ad991a1737415403998cd47943 140 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ a964b952f879ca9ead1a55e0d017f1b7 139 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ ab3fc0223c40124ff9e3b46942a25f20 140 main/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 3aefe997c19a452cad9d0a40a5b0608288666d57 140 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ d718d384b1e2c36d16c43f414aefb36d628266c2 139 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ a200aefeeacacd3853c2c1060e05130019c0a883 140 main/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 6299467f725ed20fb59100706fe27a3962575936271f1a8d0649f090641ed306 140 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 8127b1ec4887c6fdc41b8f986584581e7234f0d2f1a02f6fe1945e9a79924215 139 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ dd0dbb6e41aab80eb6241d1e6892bacf6f0bd22df79bfbb932aadd151c54ed5b 140 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlufTLUACgkQKKq9SBxY
+wo11UxAAvo2nyYIJ+uI3DzACbf1Y16aESdn5n7n590aq9lLT3BZw7aOe6lhpVIVy
+Rm19MoK1Wbp7YyvwjYy/6tn5MxJMgziT4aiMLIS+Nx0SggQkaS06e9PiGBVBxAyX
+dqwe04IhgRgIzHr7u7synC6gKClFiUmLL7OAs15h4cCuLvR4V8dU6h0t1t5jgJi4
+3AIfFwDZHOZwNlxuDHRRo479ecK/kG2CPbqI5uBNzLTS4MBaRF/HV3JiYJBMkUS5
+q3Rxiza8HCQpmbrfluz0mxoof0fjKiNFTvYas+yyvZjybAi/GlJY2ovICE+Qzv3M
+ovkat/m9bzayoJ47iIlLdrMD0v4xUtT7uybz9cu4ywIrx7iMd8OY05vbLWqps8NB
+5tPjGp57RdVU45A0/XIn6D/EHtW3FWBkxt9xxyvP2eXBRWgOL5QTTPL7rc/CFHDh
+6Ehg96ch/NhPFciVMqbv94WkhylikbQbbWGSALOJXcTNsFzJtHx9cgklsvPzD+JN
+GMM7lpEIP3KLmp4YZ8U0WT22VLFUG06iaLcqM/fEU4MCgf2ZW+Mq1ZlQ9ODG7PVs
+GIusVsOF0gnQlK4UYtC4Lw+HjwWaX36hjBKv06AGrrWJlIxMB5H+vzSbcm4HgxgD
+QW84gaK2KXSQ17DaC0TzXI77ECw/+AMxnEL8vf7Gu8MT/Ajtt7Y=
+=G7og
+-----END PGP SIGNATURE-----

@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-reprepro -S utils --ask-passphrase -Vb . includedeb xenial $1
-reprepro copy bionic xenial $2
-reprepro copy stretch xenial $2
-reprepro copy buster xenial $2
-reprepro copy sid xenial $2
-reprepro copy kali-rolling xenial $2
+reprepro -S utils --ask-passphrase -Vb . includedeb unstable $1
+if [[ "$2" == "-s" ]]; then
+	reprepro copy stable unstable $3
+fi

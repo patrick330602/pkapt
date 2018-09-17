@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: apt.patrickwu.ml
+Label: wslutilities
+Codename: wslu
+Date: Mon, 17 Sep 2018 06:40:56 UTC
+Architectures: arm64 amd64
+Components: main
+Description: Patrick Wu's apt repository for wslutilities
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 75c65421a3735a7a680c7ce6f70c8b9f 139 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ d8117fe5f2dfb2d6482a0ef0c3bba7ef 139 main/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 5cb433aade42fe9f65ed41ebab9b6f703bbe40c5 139 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 6a82ba0d3a141835de356b28103d671b66ccce14 139 main/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ e8db4f1f2d7eb0254c7f0fb1160233614079f782761eb36694d7c134d8ee5f61 139 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ acc0f01c8f754dac55ee60098b5e41f9d2692756d7308633661acf831ff642dc 139 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3CyGlgCbYWm8VyVBKKq9SBxYwo0FAlufTHgACgkQKKq9SBxY
+wo3npg//R/p+WicFECSu/UmsPEhTTpuK1HDIumA/1qVAU2H3/AyEQvAwR5WcCAg0
+fybv47/8egMTWSvLUWPGFPJSue8BT+/SKvfwpJtbme5DEt7xOK3udSTCQ+e0Hx83
+I6vVjZn/3Flie6bmQUciEpyNcVNvTrzD5FRwG5sGvMx/XbpveMy/HhtmY4hF/CY/
+goekeuxWzeZrejPlNe9VkO9ykVSUzO7HlqpcEDiyNOY5QbKL3lMxgJ2T4d7WaauR
+y6NwZBVTFRgoZkFXjl1/AWNpB+bDvbw8XiKUgt1vZm3hihgj/4R6ceMAGjMXPoz4
+lNG/wlMNFyBmG72K5Jsec2brDhzNmRfH9y6tKKXa8KQZu8Vt+GOBzWC/FJx/PVq9
+VSDxbR9eohoHMVY5q1Ji1fHcdtG76+HHbrxsmpAoP31YOkqQzB2fINYCHLO/G0Xb
+lN9l9Wl6P7aKaFJSLyWcIRxR+tLtNnXSEpvG1m3glyaCNkC5o28Q0e3RQrtwza4c
+QWkA5tXOcXLH0qjnWXrHa6ScmO6fxJ39dEHdtSQSAQ5bILrU5hlyju77QxQU82Fs
+2yki8g+pljIPCqD5jFFkoFN2O71av9QlPdQtPHPSIL41uXxgGtnZ/rGQ2PrOl3Lg
+B3nyjDq/F3CVLKg4HloomGWDGE8WJ2pHKI1Mz++HouRq/W6tLlc=
+=G96T
+-----END PGP SIGNATURE-----

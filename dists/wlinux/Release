@@ -1,19 +1,19 @@
 Origin: apt.patrickwu.ml
 Label: ruapt
 Codename: wlinux
-Date: Fri, 07 Sep 2018 10:37:01 UTC
+Date: Mon, 17 Sep 2018 07:35:58 UTC
 Architectures: amd64
 Components: main
 Description: Patrick Wu's apt repository
 MD5Sum:
- bcbc2bc8ebf5fac6c12885abb35da269 738 main/binary-amd64/Packages
- 2e2c9e857a8dfce17df6b9e3a85ba3dc 496 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
  34bd3bb2ff514feeaa2ab8eb08fadd75 115 main/binary-amd64/Release
 SHA1:
- 43ebcec296a42ee19e119d7615b98569abd2ab5a 738 main/binary-amd64/Packages
- 76e2280bddcbde95958da19fd1a83f4d516d5942 496 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
  a980d58c6b4873141498168fa69aa7e5ceeb28bb 115 main/binary-amd64/Release
 SHA256:
- 58b3be8ed65abd70f8f3915e0df2a9dfb7578253e8284f52086916e26222cccf 738 main/binary-amd64/Packages
- 4c1721ed1d692e10fe535d0da6f2935c18a22c582829192831f8135e81bc4161 496 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
  cff522e687a0a521c3b5c23d299131024fbfab7de97a4c9d276099ca542cccb6 115 main/binary-amd64/Release

@@ -1,0 +1,5 @@
+Component: main
+Origin: apt.patrickwu.ml
+Label: wslutilities
+Architecture: amd64
+Description: Patrick Wu's apt repository for wslutilities

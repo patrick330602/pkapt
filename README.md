@@ -2,14 +2,14 @@
 
 > rua!!!!
 
-ruapt is a personal repository of mine, for Ubuntu 16.04, Ubuntu 18.04, Debian 9 and Kali Linux.
+ruapt is a debian package repository for me and wslutilities.
 
 ## Usage
 
 In order to add this repository, install dependencies using the following commands:
 
 ```bash
-sudo apt install lsb-release apt-transport-https
+sudo apt install apt-transport-https
 ```
 
 you can use the following ways to add key:
@@ -23,8 +23,12 @@ wget -O - https://api.patrickwu.ml/public.key | sudo apt-key add -
 ```
 
 then add repository using the follwing command:
- 
+
 ```bash
-echo "deb https://apt.patrickwu.ml/ `lsb_release -c -s` main" | sudo tee -a /etc/apt/sources.list 
+# For stable packages
+echo "deb https://apt.patrickwu.ml/ stable main" | sudo tee -a /etc/apt/sources.list 
+# For unstable packages
+echo "deb https://apt.patrickwu.ml/ unstable main" | sudo tee -a /etc/apt/sources.list 
+
 sudo apt update
 ```
